@@ -130,3 +130,6 @@ return {
 
 ### Результат в Google Таблице
 ![Google Sheets Result](screenshots/google-sheets-result.png)
+
+## Разработка
+Проект создан с использованием AI-ассистента для ускорения разработки.
